@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chase</h1>
-<h3 align="center">A highschooler that likes to full-stack develop</h3>
+<h3 align="center">I'm a highschooler that likes to full-stack develop</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cdunc-arch&label=Profile%20views&color=0e75b6&style=flat" alt="cdunc-arch" /> </p>
 
@@ -11,9 +11,7 @@
 
 - 🌱 I’m currently learning **Java and objected oriented coding**
 
-- 👯 I’m looking to collaborate on **Community projects**
-
-- 🤝 I’m looking for help with **database frameworks and SQL fundamentals**
+- 🤝 I’m looking for help with **Database frameworks and SQL fundamentals**
 
 - 👨‍💻 All of my projects are available at [https://github.com/CDUNC-ARCH](https://github.com/CDUNC-ARCH)
 
